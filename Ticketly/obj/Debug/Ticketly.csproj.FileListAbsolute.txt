@@ -1,6 +1,6 @@
-C:\Users\frank\source\repos\Ticketly\Ticketly\bin\Vidly.dll.config
-C:\Users\frank\source\repos\Ticketly\Ticketly\bin\Vidly.dll
-C:\Users\frank\source\repos\Ticketly\Ticketly\bin\Vidly.pdb
+C:\Users\frank\source\repos\Ticketly\Ticketly\bin\Ticketly.dll.config
+C:\Users\frank\source\repos\Ticketly\Ticketly\bin\Ticketly.dll
+C:\Users\frank\source\repos\Ticketly\Ticketly\bin\Ticketly.pdb
 C:\Users\frank\source\repos\Ticketly\Ticketly\bin\roslyn\csc.exe
 C:\Users\frank\source\repos\Ticketly\Ticketly\bin\roslyn\csc.exe.config
 C:\Users\frank\source\repos\Ticketly\Ticketly\bin\roslyn\csc.rsp
@@ -154,8 +154,8 @@ C:\Users\frank\source\repos\Ticketly\Ticketly\bin\System.Web.WebPages.Deployment
 C:\Users\frank\source\repos\Ticketly\Ticketly\bin\System.Web.WebPages.Razor.xml
 C:\Users\frank\source\repos\Ticketly\Ticketly\bin\System.Web.Optimization.xml
 C:\Users\frank\source\repos\Ticketly\Ticketly\bin\Antlr3.Runtime.pdb
-C:\Users\frank\source\repos\Ticketly\Ticketly\obj\Debug\Ticketly.csproj.AssemblyReference.cache
 C:\Users\frank\source\repos\Ticketly\Ticketly\obj\Debug\Ticketly.csproj.CoreCompileInputs.cache
 C:\Users\frank\source\repos\Ticketly\Ticketly\obj\Debug\Ticketly.csproj.CopyComplete
-C:\Users\frank\source\repos\Ticketly\Ticketly\obj\Debug\Vidly.dll
-C:\Users\frank\source\repos\Ticketly\Ticketly\obj\Debug\Vidly.pdb
+C:\Users\frank\source\repos\Ticketly\Ticketly\obj\Debug\Ticketly.dll
+C:\Users\frank\source\repos\Ticketly\Ticketly\obj\Debug\Ticketly.pdb
+C:\Users\frank\source\repos\Ticketly\Ticketly\obj\Debug\Ticketly.csproj.AssemblyReference.cache
